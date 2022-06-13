@@ -1,2 +1,2 @@
 # todolist-vue-
-use vue to make a todolist
+using vue to make a todolist
